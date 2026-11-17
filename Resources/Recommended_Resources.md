@@ -21,6 +21,9 @@
 - TryHackMe (Pre-Security and SOC tracks)
 - Blue Team Labs Online (defensive scenarios)
 - Local home lab with Wazuh/Elastic and vulnerable VMs
+- ExamWizardz browser labs and PBQs: [Security+ labs](https://www.examwizardz.app/comptia-security-plus-labs) · [PBQ practice](https://www.examwizardz.app/pbq-practice)
+  - Simulated Windows and Ubuntu machines, graded in the browser. Five labs (malware persistence hunt, host firewall rules, Linux server hardening, SPF/DKIM/DMARC, order of volatility) and 13 Security+ PBQs play with no account; the rest needs a free account or paid Pro access.
+  - Written for SY0-801. The skills practiced (malware removal, host firewalls, hardening, email authentication, evidence collection) are also SY0-701 topics.
 
 ## Community Repositories
 
