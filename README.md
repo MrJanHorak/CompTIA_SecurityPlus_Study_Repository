@@ -6,6 +6,8 @@
 
 > A structured, evidence-based study framework for the CompTIA Security+ SY0-701 certification exam.
 
+> SY0-801 Note: CompTIA lists November 17, 2026 as the launch date for Security+ V8 (SY0-801). This repository still follows the SY0-701 objectives. Check the retirement date on [CompTIA's SY0-701 page](https://www.comptia.org/en/certifications/security/v7/) before booking, and compare the [SY0-801 objectives](https://www.comptia.org/en/certifications/security/v8/) if you plan to sit the new exam.
+
 ---
 
 ## Purpose
